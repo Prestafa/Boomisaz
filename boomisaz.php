@@ -1,11 +1,11 @@
 <?php
 /**
- * PrestaPlus	PrestaShop Tools
+ * Localization Plugin for PrestaPlus
  *
- * @PSDK        Compatible with PSDK\R0E14
  * @website		Prestafa.com
  * @copyright	(c) 2017 - Prestafa Team
  * @since		5 Aug 2017
+ * @license		GPL V3
  */
 
 if( !defined('_PS_VERSION_'))
